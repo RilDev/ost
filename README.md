@@ -4,7 +4,7 @@
 - [ ] format ost.tsv
 - [ ] update scripts
 - [ ] add install script (`mv /opt` & `alias ost=/opt/ost/ost`)
-- [ ] translate everything in French
+- [ ] translate everything in French (readme and -h menu)
 
 # kjv [![AUR](https://img.shields.io/badge/AUR-kjv--git-blue.svg)](https://aur.archlinux.org/packages/kjv-git/)
 
