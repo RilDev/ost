@@ -1,3 +1,10 @@
+## Todo
+
+- [ ] remake the readme file
+- [ ] format ost.tsv
+- [ ] update scripts
+- [ ] add install script (mv /opt & alias ost=/opt/ost/ost)
+
 # kjv [![AUR](https://img.shields.io/badge/AUR-kjv--git-blue.svg)](https://aur.archlinux.org/packages/kjv-git/)
 
 Read the Word of God from your terminal
